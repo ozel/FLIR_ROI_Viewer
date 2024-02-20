@@ -1,0 +1,25 @@
+folder: screenshots
+ROI 0:
+  pos: !!python/tuple
+  - 93.38399025388838
+  - 434.8411900984722
+  size: !!python/tuple
+  - 552.5841683767227
+  - 295.85346081138323
+  angle: -48.34547023788302
+ROI 1:
+  pos: !!python/tuple
+  - 620.6238678780152
+  - 377.04620663567283
+  size: !!python/tuple
+  - 602.2344916200122
+  - 200.0
+  angle: -30.27431560746239
+ROI 2:
+  pos: !!python/tuple
+  - 488.29128267109843
+  - 682.4898020849072
+  size: !!python/tuple
+  - 640.0
+  - 200.0
+  angle: 0.0
